@@ -1,4 +1,4 @@
-//d1 dht,d2 led,rx fan,A0 flamesenser,D5 Buzzer
+//d1 dht,d2 led,rx fan,A0 flamesenser,D5 Buzzer 
 #include "DHT.h"
 #define DHTPIN 5          // pin d1
 #define DHTTYPE DHT11     // DHT11
